@@ -1,0 +1,160 @@
+.image-logo {
+    height: 60px;
+    width: 70px;    
+}
+
+.menu-item-link {
+    color: #d0b200;
+    font-family: "roboto";
+    font-size: 15px;
+    font-weight: 500;
+
+
+}
+
+.main-heading {
+    color: #b223de;
+    font-size: 25px;
+    margin-top:30px;
+    margin-left: 10px;
+}
+
+.shoe-container {
+    background-image: url("https://img.freepik.com/free-vector/abstract-red-circle-black-background-technology_1142-9839.jpg?w=826&t=st=1686730937~exp=1686731537~hmac=8289fe9f8bf7be71bc5fe4e95bb072daef6f14d3fd75e36b5c6297a122eaf7a4");
+    height: 100%;
+    background-size: cover;
+}
+
+.shoe-heading {
+    color: white;
+    font-size: 35px;
+    text-align: center;
+    font-family: "roboto";
+}
+
+.shoe-image {
+    background-image: url("https://img.freepik.com/premium-photo/fashion-stylish-sneakers-with-flying-laces-running-sports-shoes-orange-background-close-up_179369-778.jpg?w=826");
+    height: 305px;
+    width: 800px;
+    margin-left:200px;
+    margin-top: 50px;
+    background-size: cover;
+    border: 2px solid rgb(218, 214, 214);    
+}
+.sneaker-mart-heading {
+    color: white;
+    font-size: 35px;
+    font-family: "roboto";
+    font-weight: bold;
+}
+
+.paragraph {
+    font-size: 15px;
+    color: black;
+    font-family: "roboto";
+    font-weight: bold;
+}
+
+.btn {
+    background-color: blue;
+    color: #ffffff;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.collection-heading {
+    color: white;
+    font-size: 35px;
+    font-family: "roboto";
+    font-weight: bold;
+
+}
+
+.card-container {
+    display: inline;
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 30px;
+    margin-left: 120px;
+}
+.image-sneaker {
+    height: 25vh;
+    border-radius: 20px;
+    width: 20vw;
+    background-size: cover;
+    transition:transform 0.5s,box-shadow 0.5;
+}
+.image-sneaker:hover{
+    transform:scale(1.5);   
+}
+.icon-heading{
+    color: white;
+    font-size: 35px;
+    font-family: "roboto";
+    font-weight: bold;
+}
+.icon-container1{
+    border-radius:38px;
+    width:80px;
+    height:80px;
+    margin:15px;
+    padding-top:22px;
+    padding-bottom:10px;
+    padding-left:24px;
+    padding-right:12px;
+    background-color:rgb(42,99,221);
+}
+.icon-container2{
+    border-radius:38px;
+    width:80px;
+    height:80px;
+    margin:15px;
+    padding-top:22px;
+    padding-bottom:10px;
+    padding-left:24px;
+    padding-right:12px;
+    background-color:#E4405F;
+}
+.icon-container3{
+    border-radius:38px;
+    width:80px;
+    height:80px;
+    margin:15px;
+    padding-top:22px;
+    padding-bottom:10px;
+    padding-left:24px;
+    padding-right:12px;
+    background-color:rgb(69, 118, 224);
+}
+.icon{
+    color:#edf0efcb;
+    font-size:35px;
+}
+.icon-follow-container{
+    background-color:rgb(209, 214, 224);
+}
+.nike-heading {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+#nav-item2 {
+    color: black;
+    font-family: serif;
+}
+
+#nav-item1 {
+    color: black;
+    font-family: serif;
+}
+
+#nav-item4 {
+    color: black;
+    font-family: serif;
+}
+
+#nav-item3 {
+    color: black;
+    font-family: serif;
+}
